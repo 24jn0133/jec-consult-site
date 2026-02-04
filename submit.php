@@ -44,7 +44,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <div class="card p-5">
             <h1 class="text-success">送信完了</h1>
             <p class="lead mt-3">お問い合わせありがとうございました。<br>内容を受け付けました。</p>
-            <a href="index.html" class="btn btn-primary mt-4">トップページへ戻る</a>
+            <a href="index.php" class="btn btn-primary mt-4">トップページへ戻る</a>
         </div>
     </div>
 </body>
